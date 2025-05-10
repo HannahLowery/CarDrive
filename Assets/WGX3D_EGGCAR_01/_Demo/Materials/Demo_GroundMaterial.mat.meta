@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56a5a6f1dfa62844692ae0f4c068b031
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275000
+  packageName: WGX3D - EGG CAR 01
+  packageVersion: 1.0
+  assetPath: Assets/WGX3D_EGGCAR_01/_Demo/Materials/Demo_GroundMaterial.mat
+  uploadId: 639001
